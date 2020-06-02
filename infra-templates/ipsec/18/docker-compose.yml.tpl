@@ -1,6 +1,6 @@
 version: '2'
 
-{{- $netImage:="rancher/net:v0.13.17" }}
+{{- $netImage:="d1rtym0nk3y/rancher_net:v0.13.17-opensslfix" }}
 
 services:
   ipsec:
